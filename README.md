@@ -23,6 +23,7 @@ Este projeto é uma plataforma web para conectar produtores rurais e consumidore
 - Listagem de produtos.
 - Formulário de contato.
 - Página institucional sobre a iniciativa.
+- Formulário de fale conosco com validações JS 
 
 ## Tecnologias Utilizadas
 
@@ -40,7 +41,7 @@ Desenvolvido por
 - João Pedro Benedet - RM565026
 - Alan Carlos Bernardes de Lima - RM563938
 
-Sprint 3 - FIAP 2025
+Sprint 4 - FIAP 2025
 
 ---
 
