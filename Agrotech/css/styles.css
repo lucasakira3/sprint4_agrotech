@@ -217,6 +217,26 @@ main i {
   margin: 20px;
 }
 
+.hero3{
+  padding-top: 3rem; 
+  padding-bottom: 3rem;
+  background-size: cover;
+  background-color: white;
+  background-image: linear-gradient(rgba(20,20,20,0.6)), url(../assets/Workers_on_farm.jpeg);
+  border-radius: 15px;
+  margin: 20px;
+}
+
+.hero4{
+  padding-top: 3rem; 
+  padding-bottom: 3rem;
+  background-size: cover;
+  background-color: white;
+  background-image: linear-gradient(rgba(20,20,20,0.6)), url(../assets/Farmer_among_coffee_crops.jpeg);
+  border-radius: 15px;
+  margin: 20px;
+}
+
 .titulo2{
   position: relative;
   text-align: left;
