@@ -384,6 +384,22 @@ mark{
     box-shadow: 0 4px 8px 0 rgba(60, 64, 67, 0.3), 0 8px 16px 8px rgba(60, 64, 67, 0.15);
 }
 
+.box1{
+    border: none;
+    margin: 20px;
+    border-radius: 15px;
+    padding: 48px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.3), 0 1px 3px 1px rgba(60, 64, 67, 0.15);
+}
+
+.box1:hover{
+    transform: translateY(-4px);
+    box-shadow: 0 4px 8px 0 rgba(60, 64, 67, 0.3), 0 8px 16px 8px rgba(60, 64, 67, 0.15);
+}
+
+
 .card.no-hover {
   transform: none;
   box-shadow: none;
